@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Loja Online - Campanha de Black Friday
-=======
-# Loja Online - Campanha de Natal
->>>>>>> feature/natal
+# Loja Online - Campanha de Ano Novo 
 
 ## Contato
 Duvidas: contato@loja.com.br
